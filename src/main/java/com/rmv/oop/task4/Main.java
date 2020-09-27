@@ -1,4 +1,4 @@
-package rmv.oop.task4;
+package com.rmv.oop.task4;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -6,7 +6,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.PropertySource;
-import rmv.oop.task4.service.ClassInfoService;
+import com.rmv.oop.task4.service.ClassInfoService;
 
 @SpringBootApplication
 @PropertySource("classpath:class.properties")

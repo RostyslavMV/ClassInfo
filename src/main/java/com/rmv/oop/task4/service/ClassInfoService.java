@@ -1,7 +1,7 @@
-package rmv.oop.task4.service;
+package com.rmv.oop.task4.service;
 
 import org.springframework.stereotype.Service;
-import rmv.oop.task4.classLoader.CustomClassLoader;
+import com.rmv.oop.task4.classLoader.CustomClassLoader;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

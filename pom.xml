@@ -10,7 +10,7 @@
         <version>2.3.2.RELEASE</version>
     </parent>
 
-    <groupId>rmv.oop</groupId>
+    <groupId>com.rmv.oop</groupId>
     <artifactId>ClassInfo</artifactId>
     <version>1.0-SNAPSHOT</version>
 

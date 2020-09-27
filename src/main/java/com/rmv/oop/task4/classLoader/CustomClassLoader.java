@@ -1,4 +1,4 @@
-package rmv.oop.task4.classLoader;
+package com.rmv.oop.task4.classLoader;
 
 import lombok.AllArgsConstructor;
 

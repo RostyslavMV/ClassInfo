@@ -1,4 +1,4 @@
-package rmv.oop.task4.model;
+package com.rmv.oop.task4.model;
 
 import lombok.AllArgsConstructor;
 
